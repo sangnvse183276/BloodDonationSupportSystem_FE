@@ -1,0 +1,23 @@
+/* .authen-template{
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+
+    .authen-template_form {
+        width: 30%;
+        height: 100%;
+        background-color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .authen-template_image{
+        width: 70%;
+        height: 100%;
+        background-image: url("https://benhvientinh.caobang.gov.vn/uploads/news/2022_04/hien-mau-060422-2.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+ */
